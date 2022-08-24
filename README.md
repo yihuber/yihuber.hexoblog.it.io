@@ -4,3 +4,5 @@
 ![9KUP-logo-black (2)](https://user-images.githubusercontent.com/90880934/186422250-6b659d2d-3813-4e62-b0b3-f51fb6127828.png)
 ![9KUP-logo-white (1)](https://user-images.githubusercontent.com/90880934/186422253-46dc2abf-3ab0-4e78-8eaa-f5e66e40f643.png)
 ![9KUP-logo-white (2)](https://user-images.githubusercontent.com/90880934/186422259-6f33941a-0451-48cc-8493-23f7672b0d68.png)
+![logo-white](https://user-images.githubusercontent.com/90880934/186423111-8082baee-160d-44f5-bcf5-c57ba25b0483.png)
+![logo-black](https://user-images.githubusercontent.com/90880934/186423125-548b3ca2-9c5c-4196-abf1-3c78cd032069.png)
